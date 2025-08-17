@@ -1,0 +1,4 @@
+config.json
+venv/
+only_vide_cli.py
+monitor_camera_legacy.py
